@@ -16,7 +16,7 @@ void input() {
 	}
 	cout << endl;
 	cout << "==============" << endl; 
-	cout << "==============" << endl;
+	cout << "Masukan Elemen Array" << endl;
 	cout << "==============" << endl;
 
 
